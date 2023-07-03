@@ -1,0 +1,12 @@
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\bin\Debug\EF_FP_guru.exe.config
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\bin\Debug\EF_FP_guru.exe
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\bin\Debug\EF_FP_guru.pdb
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.csproj.AssemblyReference.cache
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.Form1.resources
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.Enunciado1Form.resources
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.csproj.GenerateResource.cache
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.exe
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.pdb
+C:\Users\DIANA\source\repos\EF_FP_guru\EF_FP_guru\obj\Debug\EF_FP_guru.Enunciado2Form.resources
